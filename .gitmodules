@@ -1,0 +1,6 @@
+[submodule "webSci_lab1"]
+	path = webSci_lab1
+	url = git@github.com:jzone1366/webSci_lab1.git
+[submodule "webSci_lab2"]
+	path = webSci_lab2
+	url = git@github.com:jzone1366/webSci_lab2.git
