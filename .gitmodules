@@ -7,3 +7,6 @@
 [submodule "StacheIt"]
 	path = StacheIt
 	url = git@github.com:Diogenesthecynic/StacheIt.git
+[submodule "webSci_lab4"]
+	path = webSci_lab4
+	url = git@github.com:jzone1366/webSci_lab4.git
