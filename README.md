@@ -9,5 +9,9 @@ Central Repository for all of the coursework done ITWS 4200, Spring '14 at RPI. 
 	+ GIT Repo and Bug Tracking
 + webSci_lab4
 	+ Twitter API, JQuery Mobile, Responsive UI
++ webSci_lab5
+	+ Nodejs and Twitter API
++ webSci_lab6
+	+ Nodejs, Twitter API, JSON to CSV
 + StacheIt
     + Final Project
