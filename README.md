@@ -2,9 +2,9 @@
 Central Repository for all of the coursework done ITWS 4200, Spring '14 at RPI. Each lab is added as a submodule.
 
 + webSci_lab1
-    + Tweet Application with Hashtags
+	+ Tweet Application with Hashtags
 + webSci_lab2
-    + Weather Application
+	+ Weather Application
 + webSci_lab3
 	+ GIT Repo and Bug Tracking
 + webSci_lab4
@@ -14,6 +14,11 @@ Central Repository for all of the coursework done ITWS 4200, Spring '14 at RPI. 
 + webSci_lab6
 	+ Nodejs, Twitter API, JSON to CSV
 + webSci_lab7
-	+ Nodejs, Twitter API, JSON, CSV, mongDB
+	+ Nodejs, Twitter API, JSON, CSV, mongoDB
++ webSci_lab8/9
+	+ Nodejs, Twitter API, JSON, CSV, mongoDB, Twitter Analytics, Chartjs Visualizations
++ webSci_lab10
+	+ SPARQL/RDF, FOAF
 + StacheIt
     + Final Project
+
