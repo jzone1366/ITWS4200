@@ -22,3 +22,6 @@
 [submodule "webSci_lab10"]
 	path = webSci_lab10
 	url = git@github.com:jzone1366/webSci_lab10.git
+[submodule "webSci_lab8"]
+	path = webSci_lab8
+	url = git@github.com:jzone1366/webSci_lab8.git
